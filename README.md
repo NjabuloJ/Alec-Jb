@@ -40,7 +40,7 @@ Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 
    Once your Heroku account is ready, deploy the bot by clicking the button below:
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/Alec-Jb)
+[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/NjabuloJ/NjabuloJb-max)
 
 ### ❤️Supporters I Love You❤️
 [![Stargazers repo roster for @NjabuloJ/Alec-Jb](http://reporoster.com/stars/dark/NjabuloJ/Alec-Jb)](https://github.com/NjabuloJ/Njabulo-Jb/stargazers)
